@@ -1,5 +1,6 @@
-### [ Social Medias ]
-## gramsters = "https://instagram.com/heheherun"
-## githoob = "https://github.com/prereleased"
-## tele= "https://t.me/ataski"
-## dizzycord = "bleedforblades"
+```python
+[ Social Medias ]
+gramstur = "https://instagram.com/heheherun
+githoob = "https://github.com/prereleased"
+teleezy = "https://t.me/ataski"
+dizzycurd = "bleedforblades"
