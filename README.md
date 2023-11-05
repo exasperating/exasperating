@@ -1,6 +1,6 @@
 ```python
 [ Social Medias ]
-gramstur = "https://instagram.com/heheherun"
+gram = "https://instagram.com/heheherun"
 githoob = "https://github.com/prereleased"
-teleezy = "https://t.me/ataski"
-dizzycurd = "knifeplay_xx"
+tele = "https://t.me/ataski"
+ddcord = "spyscape"
