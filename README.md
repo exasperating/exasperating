@@ -1,6 +1,6 @@
 ```python
 [ Social Medias ]
-gram = "https://instagram.com/heheherun"
-githoob = "https://github.com/prereleased"
+gram = "https://instagram.com/hideimcoming"
+githoob = "https://github.com/exasperating"
 tele = "https://t.me/ataski"
-ddcord = "spyscape"
+ddcord = "aciduser"
